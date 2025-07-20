@@ -31,5 +31,5 @@ Arama uygulamalarını uygulamalı olarak öğrenir,
 Problem çözme ve algoritma düşünme yeteneklerini geliştirme,
 
 Python'da temel veri yapıları (kuyruk, yığın, küme) ile uygulamanın geliştirilmesi hedeflenmiştir.
+Detaylı proje raporu için: 
 
-Detaylı proje raporu için: yapayzeka_proje_raporu.pdf
